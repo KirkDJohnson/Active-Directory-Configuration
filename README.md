@@ -18,6 +18,9 @@ Text
 <h2>Lab Overview:</h2>
 
 <p align="center">
+This picks right up from the previous repository, "Installing Active Directory". To summarize, I installed Windows Server 2022 and configured it to the domain controller of the domain ADLab.local, I installed two Windows 10 Pro instances, and created two user accounts, helps that has full administrator privileges and john smith with only base privileges. This repository serves two purposes. First, it showcases me expirementing with different Active Directory fucntions and second, I troubleshoot many common issues that users many experience that a helpdesk or IT support specialist may tasked with fixing.<br />
+ <br />
+ <br />
 I first began experimenting with Organizational Units (OUs). In AD UC I created an OU called HR for Human Resources and under the Users Directory, I clicked and moved john smith into the new HR OU.<br/>
 <img src="https://github.com/user-attachments/assets/be7b79c3-1e55-47ea-92e5-f89b83434490" alt="Configuring AD"/>
 <br />
