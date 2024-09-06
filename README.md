@@ -66,8 +66,12 @@ This now began the unintented troubleshooting process of sharing the HR with joh
  <img src="https://github.com/user-attachments/assets/2a43f95f-f28e-4423-979a-cca0f06084f1" alt="Configuring Directory"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Configuring Directory"/>
+I now began to expiriment more with Group Policy Management. I right clicked on Group Policy Objects and selected new and labled the Group Policy Object (GPO) "Task Manager Setting".  Within the GPO, I opened the delegation tab, and added john smith to it, I think I could have added the HR OU but I was not sure so I just added john. I then righ clicked the GPO and went to edit which opened the Group Policy Management Editor. Under User Configruation, Administrative Template, System, Ctrl+Alt+Del, I found the entry for "Remove Task Manager". Clicking on that option opened a window where can enable it as well as an explanation of what this policy does. I then clicked and moved the new GPO over the HR OU to tie them together.<br/>
+<img src="https://github.com/user-attachments/assets/008e377a-61c8-45ac-8346-a69c0613815a" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/f12cc696-40e2-4ee9-bf21-8fef623291d2" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/e4810e2d-7ae8-4eb4-b5cf-6ea1e2894b51" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/dd29aee5-9266-4138-809f-2dcdd0917ea1" alt="Configuring Directory"/>
+  <img src="https://github.com/user-attachments/assets/9d7fd540-9311-4e1f-ac3a-cf41f827e58d" alt="Configuring Directory"/>
 <br />
 <br />
 Text<br/>
