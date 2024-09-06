@@ -74,8 +74,9 @@ I now began to expiriment more with Group Policy Management. I right clicked on 
   <img src="https://github.com/user-attachments/assets/9d7fd540-9311-4e1f-ac3a-cf41f827e58d" alt="Configuring Directory"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Configuring Directory"/>
+To make this change happen, because it was at the user level, I could go into cmd and use the command "gpupdate /force" which updates the User Policy. I believe if it was a Computer Policy chance I would have had to restart the computer for it to take effect. I can confirm that this change was successful by right clicking on the toolbar at the bottom and seeing that Task Manager is greyed out meaning I cannot open it.<br/>
+<img src="https://github.com/user-attachments/assets/74e9862b-4656-410d-95c6-4a606f2d638b" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/b05a61f2-321d-4ee9-a902-82ee9246b1a9" alt="Configuring Directory"/>
 <br />
 <br />
 Text<br/>
