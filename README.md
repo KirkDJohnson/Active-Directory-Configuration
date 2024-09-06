@@ -46,8 +46,14 @@ Next, the issue and troubleshooting method is a bit more complex, maybe there is
  <img src="https://github.com/user-attachments/assets/af876dcc-363b-422a-ae1b-8cc86934d547" alt="Configuring Directory"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Configuring Directory"/>
+The following (word) resulted in the most problems than any other part of the project. I began by creating two shares, HR and personal from Server Manager. In AD UC, I created two security groups to match the shares I created called HR, (not to be confused with the OU called HR I created prior) and Personal. I added john smith to both the HR and Personal shares. Within the shares, I removed the inherited permissions to have more control over them, and added the security groups to their respected share. To confirm the shares were created properly, within the Windows Sever in the C:\ drive, there a folder called Shares with the two shares I created. Right clicking on them and going to properties, then sharing, shows the network path for the share folder. This is where the headache begun.<br/>
+<img src="https://github.com/user-attachments/assets/cc7eba89-98c7-4521-93b3-b0f26b01eca8" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/65ccc412-990a-4661-a383-30b19ff199d1" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/7eb54eae-83db-4923-8d70-6deac80e4a76" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/367b0b4c-f0da-4f55-99b0-3c49947bfe6c" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/330690cb-e1b9-4b17-afdd-4339f36a222e" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/a106f03b-b2de-481c-b9cf-3214b5df00f4" alt="Configuring Directory"/>
+ <img src="https://github.com/user-attachments/assets/a6fbdce4-c27b-44d1-b7e1-f2895e2032a0" alt="Configuring Directory"/>
 <br />
 <br />
 Text<br/>
