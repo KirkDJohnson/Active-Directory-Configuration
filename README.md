@@ -12,7 +12,7 @@ Text
 
 <h2>Environments Used </h2>
 
-- </b>Windows Sever 2022 through Oracle Virtual Box</b>
+- </b>Windows Sever 2022</b>
 - </b>Windows 10 Pro</b>
 
 <h2>Lab Overview:</h2>
