@@ -2,7 +2,7 @@
 
 <br />
 <h2>Description</h2>
-In this part of the project, with the previously installed Active Directory domain, I began expirementing with the different functionalities of Active Directory such as Group Policy Management and Security Groups as well troubleshooting common user issues from the help desk perspective. During the task of learning how to create shared drives I came accross a serious hickup that after much time and research I was able to overcome and figure out the issue.
+In this part of the project, with the previously installed Active Directory domain, I began expirementing with the different functionalities of Active Directory such as Group Policy Management and Security Groups as well troubleshooting common user issues from the help desk perspective. During the task of learning how to create shared drives I came accross a serious hickup that after much time and research I was able figure out the issue and overcome it.
 
 <h2>Utilities Used</h2>
 
